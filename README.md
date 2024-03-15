@@ -92,9 +92,6 @@ taskproj/
 3. Submit the form to store the user data in the database.
 4. View the list of users displayed in a tabular format on the same page.
 
-## Known Issues
-- No known issues at the moment.
-
 ## Future Enhancements
 - Implement additional validation rules for user input.
 - Add user authentication and authorization features.
