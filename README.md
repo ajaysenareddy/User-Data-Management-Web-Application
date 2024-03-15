@@ -60,7 +60,6 @@ taskproj/
 │   │       └── application.properties
 └── pom.xml
 
-
 ## Frontend
 - **HTML Form (`index.html`):** Provides fields for user data input.
 - **CSS Stylesheet (`styles.css`):** Defines styles for the HTML elements.
