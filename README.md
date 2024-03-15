@@ -31,34 +31,35 @@ A 2-minute video demo has been provided for this application. Please refer to th
    - Defines RESTful API endpoints for handling user data.
 
 ## Project Structure
-taskproj/
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   └── com/
-│   │   │       └── springwebapp.taskproj/
-│   │   │           ├── Controller/
-│   │   │           │   └── UserController.java
-│   │   │           ├── Entity/
-│   │   │           │   └── User.java
-│   │   │           ├── Exception/
-│   │   │           │   └── ResourceNotFoundException.java
-│   │   │           ├── Implementation/
-│   │   │           │   └── UserServiceImpl.java
-│   │   │           ├── Payload/
-│   │   │           │   ├── ApiResponse.java
-│   │   │           │   └── UserDto.java
-│   │   │           ├── Repository/
-│   │   │           │   └── UserRepo.java
-│   │   │           └── Service/
-│   │   │               └── UserService.java
-│   │   └── resources/
-│   │       ├── static/
-│   │       │   ├── index.html
-│   │       │   ├── styles.css
-│   │       │   └── scripts.js
-│   │       └── application.properties
-└── pom.xml
+1. taskproj/
+    1. src/
+        1. main/
+            1. java/
+                1. com/
+                    1. springwebapp.taskproj/
+                        1. Controller/
+                            1. UserController.java
+                        2. Entity/
+                            1. User.java
+                        3. Exception/
+                            1. ResourceNotFoundException.java
+                        4. Implementation/
+                            1. UserServiceImpl.java
+                        5. Payload/
+                            1. ApiResponse.java
+                            2. UserDto.java
+                        6. Repository/
+                            1. UserRepo.java
+                        7. Service/
+                            1. UserService.java
+            2. resources/
+                1. static/
+                    1. index.html
+                    2. styles.css
+                    3. scripts.js
+                2. application.properties
+    2. pom.xml
+
 
 ## Frontend
 - **HTML Form (`index.html`):** Provides fields for user data input.
