@@ -3,6 +3,9 @@
 ## Overview
 This document provides an overview of the User Data Management Web Application. The application allows users to input their data, which is then validated, stored in a database, and displayed in a tabular format.
 
+## Video Demo
+A 2-minute video demo has been provided for this application. Please refer to the attached video for a demonstration of the application's functionality.
+
 ## Features
 1. User Input Form:
    - Provides fields for users to input their name, email, age, and date of birth.
